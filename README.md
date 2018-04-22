@@ -22,3 +22,9 @@ IMAGE
 Using an ISS tracking website like [N2YO](http://www.n2yo.com/?s=25544) determine when the ISS will the the absolute closest possible to your location - note that "visible passes" are only relevant for astronomy and some "invisible passes" might be much closer than the visible ones. 
 <img src=https://i.imgur.com/iWO8j5U.png>
 
+Tune GQRX to 145.8MHz and wait until you start to see a signal, set your program to WFM and narrow it down to about 16kHZ bandwidth then start piping/recording the audio with your preferred method. NFM in some GQRX adds in filters designed for receiving voice which will degrade the image you are trying to receive.
+
+<img src=https://i.imgur.com/0nWsfoB.png>
+
+You may need to widen the bandwith to 20kHZ to adjust for doppler shift if you're images are coming in really choppy.
+
