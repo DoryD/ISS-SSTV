@@ -1,5 +1,6 @@
 # ISS-SSTV
-Pretty cool, right? With a little know how and some solder anyone can do this!
+Receiving images from space - pretty cool, right? 
+With a little know how and some solder anyone can do this!
 
 #### Step 1: The Antenna.
 Your antenna will be the most important part of receiving signals, so let's start there. 
@@ -29,6 +30,7 @@ Tune GQRX to 145.8MHz and wait until you start to see a signal, set your program
 #### Step 3: Decoding
 
 The best program for the job in linux is [slowrx](https://github.com/windytan/slowrx) [(AUR)](https://aur.archlinux.org/packages/slowrx-git/) Select "PD-120" and start piping the audio into the program (I used pulseaudio for this)
-<img src=https://i.imgur.com/6NncNWM.jpg>
+<img src=https://i.imgur.com/6NncNWM.jpg> 
+Wait for the image to fully decode and maybe mess with some of the filters for a few tries and congratulations! You successfully decoded an image from the ISS.
 
-
+<img src= https://i.imgur.com/MG2QOA4.jpg>
