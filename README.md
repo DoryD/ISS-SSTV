@@ -28,7 +28,7 @@ Tune GQRX to 145.8MHz and wait until you start to see a signal, set your program
 
 #### Step 3: Decoding
 
-The best program for the job in linux is [slowrx](https://github.com/windytan/slowrx)[AUR](https://aur.archlinux.org/packages/slowrx-git/) Select "PD-120" and start piping the audio into the program (I used pulseaudio for this)
+The best program for the job in linux is [slowrx](https://github.com/windytan/slowrx) [(AUR)](https://aur.archlinux.org/packages/slowrx-git/) Select "PD-120" and start piping the audio into the program (I used pulseaudio for this)
 <img src=https://i.imgur.com/6NncNWM.jpg>
 
 
