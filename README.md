@@ -1,7 +1,7 @@
 # ISS-SSTV
 Pretty cool, right? With a little know how and some solder anyone can do this!
 
-#### First, the antenna.
+#### Step 1: The Antenna.
 Your antenna will be the most important part of receiving signals, so let's start there. 
 
 Hands down the easiest antenna for this job is going to be [Adam 9A4QV's V dipole](https://www.dropbox.com/s/6fpfn2p9filc9ol/DIY%20137MHz%20WX-sat%20V-dipole%20antenna.pdf?dl=0) 
@@ -12,4 +12,13 @@ Hands down the easiest antenna for this job is going to be [Adam 9A4QV's V dipol
 <img src=https://upload.wikimedia.org/wikipedia/commons/d/dd/Dipole_receiving_antenna_animation_6_800x394x150ms.gif>
 
 There is a lot of technical information in that document, but all you really need is this image to get started <img src=https://www.rtl-sdr.com/wp-content/uploads/2017/03/adams_V-dipole-500x375.png>
-Connect the centre part of the coax to one leg, and the sheilding to the other, spread apart 120° and secure it in place. 
+
+Connect the centre part of the coax to one leg, and the sheilding to the other, spread apart 120° and secure it in place in the horozontal position like i've done here. 
+
+IMAGE
+
+#### Step 2: Receiving
+
+Using an ISS tracking website like [N2YO](http://www.n2yo.com/?s=25544) determine when the ISS will the the absolute closest possible to your location - note that "visible passes" are only relevant for astronomy and some "invisible passes" might be much closer than the visible ones. 
+<img src=https://i.imgur.com/iWO8j5U.png>
+
