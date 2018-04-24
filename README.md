@@ -14,9 +14,9 @@ Hands down the easiest antenna for this job is going to be [Adam 9A4QV's V dipol
 
 There is a lot of technical information in that document, but all you really need is this image to get started <img src=https://www.rtl-sdr.com/wp-content/uploads/2017/03/adams_V-dipole-500x375.png>
 
-Connect the centre part of the coax to one leg, and the sheilding to the other, spread apart 120° and secure it in place in the horozontal position like i've done here. 
+Connect the centre part of the coax to one leg, and the sheilding to the other, spread apart 120° and secure it in place in the horozontal position 
 
-IMAGE
+https://www.youtube.com/watch?v=9WNmhfpWxdk
 
 #### Step 2: Receiving
 
